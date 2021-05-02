@@ -6,4 +6,4 @@
 #### load the image and choose the feature you are looking for (magnitude,phase,real,imagnary). 
 #### select the images and the component you want to mix 
 ## output
-![Alt Text](out.png)
+![Alt Text](out.PNG)
